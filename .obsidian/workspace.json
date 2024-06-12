@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 4 Computer Architecture/Unit 2/Cache Coherence.md",
+                "file": "Sem 4 Computer Architecture/Unit 2/Segment Table.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 4 Computer Architecture/Unit 2/Cache Coherence.md",
+                "file": "Sem 4 Computer Architecture/Unit 2/Segment Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 4 Computer Architecture/Unit 2/Cache Coherence.md",
+                "file": "Sem 4 Computer Architecture/Unit 2/Segment Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 4 Computer Architecture/Unit 2/Cache Coherence.md"
+                "file": "Sem 4 Computer Architecture/Unit 2/Segment Table.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "a0406e81d75416e7",
   "lastOpenFiles": [
-    "Sem 4 Computer Architecture/Unit 2.md",
+    "Sem 4 Computer Architecture/Unit 2/Virtual Memory.md",
+    "Sem 4 Computer Architecture/Unit 2/Segment Table.md",
     "Sem 4 Computer Architecture/Unit 2/Cache Coherence.md",
+    "Sem 4 Computer Architecture/Unit 2.md",
     "Sem 4 Computer Architecture/Unit 2",
     "Sem 4 Computer Architecture/Unit 1.md",
     "Sem 4 Computer Architecture/Unit 1",
@@ -183,8 +185,6 @@
     "quartz/node_modules/combined-stream/Readme.md",
     "quartz/node_modules/character-entities-html4/readme.md",
     "quartz/node_modules/brace-expansion/README.md",
-    "quartz/node_modules/@esbuild/win32-x64/README.md",
-    "quartz/node_modules/fetch-ponyfill/node_modules/node-fetch/README.md",
     "quartz/node_modules/cli-spinner/img/spinner.gif",
     "quartz/node_modules/psl/browserstack-logo.svg",
     "quartz/quartz/static/og-image.png",
