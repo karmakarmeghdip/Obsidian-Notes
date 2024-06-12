@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Computer Architecture/Benchmarks and profiling.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Computer Architecture/Benchmarks and profiling.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Computer Architecture/Benchmarks and profiling.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Computer Architecture/Benchmarks and profiling.md"
           }
         }
       }
@@ -134,11 +134,12 @@
   },
   "active": "7195c6d884f9b609",
   "lastOpenFiles": [
+    "Computer Architecture/Sem-4 Unit-1.md",
+    "Computer Architecture/Pipelined system vs non Pipelined system.md",
+    "README.md",
     "Pipelining Hazards.md",
     "Computer Architecture/Pipelining Hazards.md",
-    "README.md",
     "Computer Architecture/Benchmarks and profiling.md",
-    "Computer Architecture/Sem-4 Unit-1.md",
     "Excalidraw/Drawing 2024-06-12 16.39.14.excalidraw.md"
   ]
 }

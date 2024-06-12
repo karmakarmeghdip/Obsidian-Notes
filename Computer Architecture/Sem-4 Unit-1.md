@@ -41,7 +41,7 @@ Pipelining is a technique used to improve the throughput of a CPU by executing m
 - **Arithmetic Pipeline**: Division of arithmetic operations into sub-operations to increase throughput.
 
 ### Example-
-[[Speed up of a Pipelined system vs non Pipelined system]]
+[[Pipelined system vs non Pipelined system]]
 
 
 #### Hazards in Pipelining
