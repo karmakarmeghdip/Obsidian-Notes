@@ -38,7 +38,7 @@ Pipelining is a technique used to improve the throughput of a CPU by executing m
 
 - **Pipeline Stages**: Typical stages include *Fetch*, *Decode*, *Execute*, *Memory* *Access*, and *Write Back*.
 - **Instruction Pipeline**: Execution of multiple instructions overlapped in a pipeline.
-- **Arithmetic Pipeline**: Division of arithmetic operations into sub-operations to increase throughput.
+- **Arithmetic Pipeline**: Division of arithmetic operations into sub-operations to increase throughput. [[Arithmetic Pipeline|Read more...]]
 
 ### Example-
 [[Pipelined system vs non Pipelined system]]
