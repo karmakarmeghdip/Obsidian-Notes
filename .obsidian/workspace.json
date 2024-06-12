@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Architecture/Pipelining Hazards.md",
+                "file": "Computer Architecture/Pipelined system vs non Pipelined system.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f235aabde25b8387",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Architecture/Sem-4 Unit-2.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Architecture/Pipelining Hazards.md",
+                "file": "Computer Architecture/Sem-4 Unit-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Architecture/Pipelining Hazards.md",
+                "file": "Computer Architecture/Sem-4 Unit-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Architecture/Pipelining Hazards.md"
+                "file": "Computer Architecture/Sem-4 Unit-2.md"
               }
             }
           }
@@ -172,12 +184,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "29d349e4a7948c0c",
+  "active": "f235aabde25b8387",
   "lastOpenFiles": [
     "Computer Architecture/Pipelined system vs non Pipelined system.md",
+    "Computer Architecture/Sem-4 Unit-2.md",
+    "Computer Architecture/Pipelining Hazards.md",
     "Computer Architecture/~syncthing~Sem-4 Unit-1.md.tmp",
     "Computer Architecture/Sem-4 Unit-1.md",
-    "Computer Architecture/Pipelining Hazards.md",
     "Excalidraw/Drawing 2024-06-12 16.39.14.excalidraw.md",
     "Excalidraw",
     "Computer Architecture/Benchmarks and profiling.md",

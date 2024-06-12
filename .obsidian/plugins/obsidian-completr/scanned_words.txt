@@ -3,6 +3,7 @@ Hardware
 Handling
 Hierarchy
 Handles
+However
 in
 instructions
 incorrect
@@ -31,6 +32,9 @@ improve
 involve
 improvement
 itself
+indicating
+ideally
+inefficiencies
 Pipelining
 Pipeline
 Prediction
@@ -40,6 +44,7 @@ Processing
 Per
 Profiling
 Passing
+Pipelined
 Data
 Duplication
 Dynamic
@@ -67,6 +72,9 @@ organization
 overlapped
 on
 operation
+our
+often
+other
 when
 writes
 write
@@ -79,6 +87,8 @@ with
 wait
 whether
 will
+we
+would
 that
 three
 types
@@ -102,6 +112,11 @@ tests
 time
 task
 topics
+takes
+timeline
+times
+then
+theoretical
 exhibit
 executed
 ensure
@@ -121,6 +136,7 @@ external
 evaluate
 enhancement
 enhancements
+each
 data
 dependencies
 dependency
@@ -173,6 +189,12 @@ assess
 applications
 arithmetic
 above
+address
+assume
+approximately
+analysis
+approaches
+assuming
 simultaneously
 subsequent
 set
@@ -202,6 +224,10 @@ storage
 stages
 sub
 save
+simple
+starts
+scenario
+speedup
 pipeline
 previous
 passing
@@ -227,6 +253,10 @@ pathways
 possible
 per
 post
+processed
+perfect
+potential
+pipelining
 causing
 cycles
 correct
@@ -257,6 +287,11 @@ change
 certainty
 code
 call
+calculate
+clock
+cycle
+calculated
+conditions
 results
 reads
 register
@@ -281,6 +316,7 @@ reducing
 refers
 registers
 resolution
+reality
 There
 This
 Techniques
@@ -300,6 +336,7 @@ hazard
 history
 handled
 here
+have
 Read
 RAW
 Resource
@@ -322,11 +359,14 @@ Access
 Arithmetic
 Arise
 Allocation
+Assume
+Analysis
 Write
 WAR
 WAW
 Without
 With
+Where
 before
 bypassing
 bubbles
@@ -339,6 +379,7 @@ be
 beginning
 brain
 between
+benefits
 known
 knowing
 Example
@@ -368,6 +409,8 @@ free
 find
 forwarding
 function
+formula
+faster
 Solutions
 Stalls
 Simple
@@ -386,6 +429,8 @@ Speedup
 Second
 Stages
 Scheduling
+System
+So
 Forwarding
 For
 Flushing
@@ -400,6 +445,8 @@ number
 no
 normal
 none
+needed
+non
 Introducing
 If
 Interlocks
@@ -410,6 +457,7 @@ Includes
 Instructions
 Improving
 Inlining
+In
 Control
 Clearing
 CPU
@@ -422,6 +470,8 @@ Cycles
 Concepts
 Compiler
 Code
+Cycle
+Calculating
 making
 might
 more
@@ -452,10 +502,14 @@ unexpected
 utilization
 using
 under
+understanding
 guess
 guessing
 guesses
 given
+general
+gives
+good
 logic
 like
 level
@@ -463,6 +517,9 @@ longer
 loops
 loop
 latency
+look
+large
+less
 various
 valid
 view
@@ -485,6 +542,7 @@ Overview
 Occur
 Loop
 Law
+Let
 Unrolling
 Using
 Unit
@@ -494,3 +552,5 @@ You
 Key
 Quantitative
 Guessing
+General
+Non
