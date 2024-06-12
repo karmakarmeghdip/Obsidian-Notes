@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Architecture/Unit-2.md",
-                "mode": "preview",
+                "file": "Sem 4 Computer Architecture/Unit 2/Cache Coherence.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Architecture/Unit-2.md",
+                "file": "Sem 4 Computer Architecture/Unit 2/Cache Coherence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Architecture/Unit-2.md",
+                "file": "Sem 4 Computer Architecture/Unit 2/Cache Coherence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Architecture/Unit-2.md"
+                "file": "Sem 4 Computer Architecture/Unit 2/Cache Coherence.md"
               }
             }
           }
@@ -147,16 +147,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "29d349e4a7948c0c",
+  "active": "a0406e81d75416e7",
   "lastOpenFiles": [
-    "Computer Architecture/Sem-4 Unit 1",
-    "Computer Architecture/Sem-4 Unit 1/Benchmarks and profiling.md",
-    "Computer Architecture/Unit-1.md",
-    "Computer Architecture/Unit-2.md",
+    "Sem 4 Computer Architecture/Unit 2.md",
+    "Sem 4 Computer Architecture/Unit 2/Cache Coherence.md",
+    "Sem 4 Computer Architecture/Unit 2",
+    "Sem 4 Computer Architecture/Unit 1.md",
+    "Sem 4 Computer Architecture/Unit 1",
+    "Sem 4 Computer Architecture/Unit 1/Benchmarks and profiling.md",
     "2024-06-13.md",
-    "Computer Architecture/Sem-4 Unit 1/Arithmetic Pipeline.md",
-    "Computer Architecture/Sem-4 Unit 1/Performance Metrics.md",
-    "Computer Architecture/Sem-4 Unit 1/Pipelined system vs non Pipelined system.md",
+    "Sem 4 Computer Architecture/Unit 1/Arithmetic Pipeline.md",
+    "Sem 4 Computer Architecture/Unit 1/Performance Metrics.md",
+    "Sem 4 Computer Architecture/Unit 1/Pipelined system vs non Pipelined system.md",
     "index.md",
     "quartz/node_modules/cliui/build/lib/string-utils.js",
     "quartz/node_modules/cliui/build/lib/index.js",
@@ -166,8 +168,6 @@
     "quartz/node_modules/cliui/build",
     "quartz/node_modules/yargs/lib/platform-shims/browser.mjs",
     "quartz/node_modules/yargs/lib/platform-shims/esm.mjs",
-    "quartz/node_modules/yargs/lib/platform-shims",
-    "quartz/node_modules/yargs/lib",
     "quartz/node_modules/moo/README.md",
     "quartz/node_modules/mdast-util-gfm/readme.md",
     "quartz/node_modules/longest-streak/readme.md",
