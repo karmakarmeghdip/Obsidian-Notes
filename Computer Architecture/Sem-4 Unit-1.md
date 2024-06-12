@@ -28,6 +28,7 @@ Performance measurement involves:
 - **CPI (Cycles Per Instruction)**: Average number of cycles per instruction.
 - **MIPS (Million Instructions Per Second)**: Rate of instruction execution.
 - **Benchmarks and Profiling Tools**: Use to assess performance of systems and applications.
+- **Further Details**: [[Benchmarks and profiling]]
 
 ### Pipelining in Computer Architecture
 
