@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Architecture/Sem-4 Unit-2.md",
-                "mode": "source",
+                "file": "Computer Architecture/Unit-2.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Architecture/Sem-4 Unit-2.md",
+                "file": "Computer Architecture/Unit-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Architecture/Sem-4 Unit-2.md",
+                "file": "Computer Architecture/Unit-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Architecture/Sem-4 Unit-2.md"
+                "file": "Computer Architecture/Unit-2.md"
               }
             }
           }
@@ -147,14 +147,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a0406e81d75416e7",
+  "active": "29d349e4a7948c0c",
   "lastOpenFiles": [
+    "Computer Architecture/Sem-4 Unit 1",
+    "Computer Architecture/Sem-4 Unit 1/Benchmarks and profiling.md",
+    "Computer Architecture/Unit-1.md",
+    "Computer Architecture/Unit-2.md",
     "2024-06-13.md",
-    "Computer Architecture/Sem-4 Unit-2.md",
-    "Computer Architecture/Sem-4 Unit-1.md",
-    "Computer Architecture/Arithmetic Pipeline.md",
-    "Computer Architecture/Performance Metrics.md",
-    "Computer Architecture/Pipelined system vs non Pipelined system.md",
+    "Computer Architecture/Sem-4 Unit 1/Arithmetic Pipeline.md",
+    "Computer Architecture/Sem-4 Unit 1/Performance Metrics.md",
+    "Computer Architecture/Sem-4 Unit 1/Pipelined system vs non Pipelined system.md",
     "index.md",
     "quartz/node_modules/cliui/build/lib/string-utils.js",
     "quartz/node_modules/cliui/build/lib/index.js",
@@ -183,8 +185,6 @@
     "quartz/node_modules/brace-expansion/README.md",
     "quartz/node_modules/@esbuild/win32-x64/README.md",
     "quartz/node_modules/fetch-ponyfill/node_modules/node-fetch/README.md",
-    "quartz/node_modules/fetch-ponyfill/node_modules/node-fetch/LICENSE.md",
-    "quartz/node_modules/gray-matter/node_modules/js-yaml/README.md",
     "quartz/node_modules/cli-spinner/img/spinner.gif",
     "quartz/node_modules/psl/browserstack-logo.svg",
     "quartz/quartz/static/og-image.png",
