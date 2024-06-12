@@ -12,18 +12,14 @@ Benchmarks are designed to simulate real-world workloads, providing insights int
 Performance metrics are quantitative measures used to evaluate the performance of computer systems. Key metrics include:
 
 - **Throughput**: The number of tasks or operations completed in a given time period. It is a measure of system productivity. For example, instructions per second (IPS) or transactions per second (TPS).
-  $$
-  \text{Throughput} = \frac{\text{Total number of tasks}}{\text{Total time taken}}
-$$
+
+$$\text{Throughput} = \frac{\text{Total number of tasks}}{\text{Total time taken}}$$
+
 - **Latency**: The time it takes to complete a single task or operation. It is a measure of response time. For example, the time taken to fetch a piece of data from memory.
-  $$
-  \text{Latency} = \text{Time taken to complete one task}
-  $$
+$$\text{Latency} = \text{Time taken to complete one task}$$
 
 - **Efficiency**: The ratio of useful work performed by a system to the total resources used. It is often expressed as a percentage. Higher efficiency means better utilization of resources.
-  $$
-  \text{Efficiency} = \frac{\text{Useful work done}}{\text{Total resources used}} \times 100\%
-  $$
+$$\text{Efficiency} = \frac{\text{Useful work done}}{\text{Total resources used}} \times 100\%$$
 
 These metrics help in understanding different aspects of system performance and identifying bottlenecks.
 
