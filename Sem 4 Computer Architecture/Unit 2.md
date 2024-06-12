@@ -6,7 +6,7 @@ Hierarchical memory technology is crucial in modern computer architecture for en
 
 - **Inclusion Property**: This refers to the principle that all data in a smaller, faster cache (e.g., L1) must also be present in a larger, slower cache (e.g., L2). This simplifies cache coherence protocols.
   
-- **Coherence Property**: Ensures that multiple copies of a data item in different caches remain consistent. Cache coherence protocols like MESI (Modified, Exclusive, Shared, Invalid) are used to maintain coherence.
+- **Coherence Property**: Ensures that multiple copies of a data item in different caches remain consistent. Cache coherence protocols like MESI (Modified, Exclusive, Shared, Invalid) are used to maintain coherence.  [[Cache Coherence|Read more...]]
 
 - **Locality Properties**:
   - **Temporal Locality**: If a data location is accessed, it is likely to be accessed again soon.
@@ -43,6 +43,7 @@ Hierarchical memory technology is crucial in modern computer architecture for en
   - **Page Tables**: Data structures used to keep track of the mapping from virtual to physical addresses. Includes single-level, multi-level, and inverted page tables.
   - **Translation Lookaside Buffers (TLB)**: Cache for page table entries to speed up virtual-to-physical address translation.
   - **Demand Paging**: Loads pages into memory only when they are needed, reducing memory usage.
+[[Virtual Memory|Read more...]]
 
 #### 5. Memory Replacement Policies
 
