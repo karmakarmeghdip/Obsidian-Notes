@@ -18,6 +18,7 @@ Quantitative techniques are used to evaluate and improve computer system perform
 - **Performance Metrics**: Throughput, latency, and efficiency.
 - **Amdahl’s Law**: Formula to find the maximum improvement possible with a given enhancement.
 - **Speedup**: Measure of performance improvement from enhancements.
+Further Explanati
 
 #### Measuring and Reporting Performance
 
