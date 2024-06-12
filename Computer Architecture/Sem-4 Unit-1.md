@@ -65,6 +65,8 @@ Pipelining is a technique used to improve the throughput of a CPU by executing m
 - **Exceptions**: Events that disrupt the normal flow of execution (e.g., interrupts, faults).
 - **Handling Mechanisms**: Techniques to save the state and ensure correct program execution post-exception.
 
+Further details on the above topics here: [[Pipelining Hazards]]
+
 #### Pipeline Optimization Techniques
 
 - **Instruction Reordering**: Rearranging instructions to avoid hazards.
