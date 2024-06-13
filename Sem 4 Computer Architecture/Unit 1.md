@@ -72,6 +72,7 @@ Further details on the above topics here: [[Pipelining Hazards]]
 - **Instruction Reordering**: Rearranging instructions to avoid hazards.
 - **Loop Unrolling**: Expanding loops to reduce loop control overhead and increase pipeline efficiency.
 - **Out-of-Order Execution**: Executing instructions as resources are available rather than strictly in order.
+- **Non Linear Pipelining**: [[Non Linear Pipelining]]
 
 #### Compiler Techniques for Improving Performance
 
