@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 4 Computer Architecture/Unit 3.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 4 Computer Architecture/Unit 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 4 Computer Architecture/Unit 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sem 4 Computer Architecture/Unit 3.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -169,10 +165,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a01e234d80990ea",
+  "active": "944a3de3ec909bc1",
   "lastOpenFiles": [
-    "Sem 4 Computer Architecture/Unit 4.md",
+    "index.md",
     "Sem 4 Computer Architecture/Unit 3.md",
+    "Sem 4 Computer Architecture/Unit 4.md",
     "Sem 4 Computer Architecture/test.canvas",
     "Sem 4 Computer Architecture/Unit 2.md",
     "Sem 4 Computer Architecture/Unit 1/Non Linear Pipelining.md",
@@ -187,7 +184,6 @@
     "Sem 4 Computer Architecture/Unit 1/Arithmetic Pipeline.md",
     "Sem 4 Computer Architecture/Unit 1/Performance Metrics.md",
     "Sem 4 Computer Architecture/Unit 1/Pipelined system vs non Pipelined system.md",
-    "index.md",
     "quartz/node_modules/cliui/build/lib/string-utils.js",
     "quartz/node_modules/cliui/build/lib/index.js",
     "quartz/node_modules/cliui/build/index.d.cts",
