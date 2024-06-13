@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Sem 4 Computer Architecture/Unit 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "944a3de3ec909bc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Sem 4 Computer Architecture/Unit 1/Non Linear Pipelining.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +142,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,15 +161,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a0406e81d75416e7",
+  "active": "944a3de3ec909bc1",
   "lastOpenFiles": [
-    "Sem 4 Computer Architecture/Unit 2/Virtual Memory.md",
-    "Sem 4 Computer Architecture/Unit 1/Non Linear Pipelining.md",
+    "Sem 4 Computer Architecture/Unit 1.md",
     "Sem 4 Computer Architecture/Unit 2.md",
+    "Sem 4 Computer Architecture/Unit 1/Non Linear Pipelining.md",
+    "Sem 4 Computer Architecture/Unit 2/Virtual Memory.md",
     "Sem 4 Computer Architecture/Unit 2/Cache Coherence.md",
     "Sem 4 Computer Architecture/Unit 2/Segment Table.md",
     "Sem 4 Computer Architecture/Unit 2",
-    "Sem 4 Computer Architecture/Unit 1.md",
     "Sem 4 Computer Architecture/Unit 1",
     "Sem 4 Computer Architecture/Unit 1/Benchmarks and profiling.md",
     "2024-06-13.md",

@@ -36,7 +36,7 @@ Hierarchical memory technology is crucial in modern computer architecture for en
 
 - **Mapping Techniques**:
   - **Paging**: Divides virtual memory into fixed-size pages, mapped to physical frames. Commonly used in modern systems for its simplicity and efficiency.
-  - **Segmentation**: Divides memory into segments based on logical divisions like code, stack, and heap. Provides protection and modularity.
+  - **Segmentation**: Divides memory into segments based on logical divisions like code, stack, and heap. Provides protection and modularity. [[Segment Table|read more...]]
   - **Segmented Paging**: Combines segmentation and paging for greater flexibility and protection.
 
 - **Management Techniques**:
