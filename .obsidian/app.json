@@ -9,5 +9,6 @@
   },
   "showRibbon": false,
   "showInlineTitle": true,
-  "vimMode": false
+  "vimMode": false,
+  "newFileLocation": "current"
 }
