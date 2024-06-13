@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 4 Computer Architecture/Unit 2/Virtual Memory.md",
-                "mode": "source",
+                "file": "Sem 4 Computer Architecture/Unit 1/Non Linear Pipelining.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 4 Computer Architecture/Unit 2/Virtual Memory.md",
+                "file": "Sem 4 Computer Architecture/Unit 1/Non Linear Pipelining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 4 Computer Architecture/Unit 2/Virtual Memory.md",
+                "file": "Sem 4 Computer Architecture/Unit 1/Non Linear Pipelining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 4 Computer Architecture/Unit 2/Virtual Memory.md"
+                "file": "Sem 4 Computer Architecture/Unit 1/Non Linear Pipelining.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "a0406e81d75416e7",
   "lastOpenFiles": [
-    "Sem 4 Computer Architecture/Unit 2.md",
     "Sem 4 Computer Architecture/Unit 2/Virtual Memory.md",
+    "Sem 4 Computer Architecture/Unit 1/Non Linear Pipelining.md",
+    "Sem 4 Computer Architecture/Unit 2.md",
     "Sem 4 Computer Architecture/Unit 2/Cache Coherence.md",
     "Sem 4 Computer Architecture/Unit 2/Segment Table.md",
     "Sem 4 Computer Architecture/Unit 2",
@@ -184,7 +185,6 @@
     "quartz/node_modules/comma-separated-tokens/readme.md",
     "quartz/node_modules/combined-stream/Readme.md",
     "quartz/node_modules/character-entities-html4/readme.md",
-    "quartz/node_modules/brace-expansion/README.md",
     "quartz/node_modules/cli-spinner/img/spinner.gif",
     "quartz/node_modules/psl/browserstack-logo.svg",
     "quartz/quartz/static/og-image.png",
