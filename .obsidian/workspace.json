@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 4 Computer Architecture/Unit 3.md",
+                "file": "Sem 4 Computer Architecture/Unit 4.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a01e234d80990ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem 4 Computer Architecture/Unit 3.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,10 +169,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e03505a2fa4bad3",
+  "active": "3a01e234d80990ea",
   "lastOpenFiles": [
-    "Sem 4 Computer Architecture/test.canvas",
+    "Sem 4 Computer Architecture/Unit 4.md",
     "Sem 4 Computer Architecture/Unit 3.md",
+    "Sem 4 Computer Architecture/test.canvas",
     "Sem 4 Computer Architecture/Unit 2.md",
     "Sem 4 Computer Architecture/Unit 1/Non Linear Pipelining.md",
     "Sem 4 Computer Architecture/Unit 1.md",
