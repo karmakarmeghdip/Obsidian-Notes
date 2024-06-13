@@ -13,6 +13,7 @@ Hz
 Hit
 Helps
 High
+Having
 in
 instructions
 incorrect
@@ -91,6 +92,10 @@ interconnection
 independent
 immediate
 ideas
+important
+improving
+inherent
+issue
 Pipelining
 Pipeline
 Prediction
@@ -125,6 +130,7 @@ Protection
 Prevents
 Parallelism
 Processors
+Predicting
 Data
 Duplication
 Dynamic
@@ -152,6 +158,9 @@ DSP
 Distributed
 DSM
 Delays
+Dependencies
+Dependency
+Different
 occur
 of
 output
@@ -196,6 +205,8 @@ operate
 omega
 off
 over
+original
+once
 when
 writes
 write
@@ -224,6 +235,7 @@ works
 within
 were
 wiring
+word
 that
 three
 types
@@ -341,6 +353,9 @@ edges
 evaluation
 expressions
 enabling
+exploiting
+exploit
+element
 data
 dependencies
 dependency
@@ -414,6 +429,10 @@ depends
 decomposition
 digital
 draft
+degree
+distinct
+dispatching
+demands
 are
 also
 as
@@ -503,6 +522,12 @@ arrays
 array
 arranged
 achieves
+aimed
+altered
+adhering
+assigning
+apply
+achieve
 simultaneously
 subsequent
 set
@@ -625,6 +650,12 @@ synchronization
 semaphores
 shelf
 scaled
+sequences
+superscalar
+scheduled
+superpipelined
+shorter
+schedules
 pipeline
 previous
 passing
@@ -717,6 +748,9 @@ prime
 placed
 primitives
 principles
+penalties
+performing
+pieces
 causing
 cycles
 correct
@@ -820,6 +854,7 @@ computation
 computations
 characteristics
 computational
+capable
 results
 reads
 register
@@ -948,6 +983,7 @@ hit
 highly
 high
 having
+helps
 Read
 RAW
 Resource
@@ -1016,6 +1052,8 @@ Allows
 Applications
 Advanced
 Architectures
+Automata
+Array
 Write
 WAR
 WAW
@@ -1028,6 +1066,7 @@ When
 Workload
 While
 Weak
+Word
 before
 bypassing
 bubbles
@@ -1105,6 +1144,7 @@ Efficiently
 Ensure
 Ethernet
 Exploits
+Eliminating
 from
 file
 flow
@@ -1162,6 +1202,9 @@ functional
 features
 fine
 focus
+found
+finer
+flight
 Solutions
 Stalls
 Simple
@@ -1220,6 +1263,10 @@ Synchronization
 Sequential
 Scalability
 Systolic
+Semester
+Superscalar
+Superpipelined
+Simplified
 Forwarding
 For
 Flushing
@@ -1240,6 +1287,8 @@ Fault
 Flexibility
 Fetched
 Flynn
+Formal
+Frequency
 need
 next
 not
@@ -1293,6 +1342,7 @@ Issue
 Interconnection
 Interconnect
 InfiniBand
+ILP
 Control
 Clearing
 CPU
@@ -1339,6 +1389,8 @@ Cluster
 Computers
 Commodity
 Clusters
+Coming
+Consist
 making
 might
 more
@@ -1408,6 +1460,7 @@ models
 module
 multiprocessor
 meghdip
+mean
 Branch
 Bubbles
 By
@@ -1422,6 +1475,7 @@ Both
 Breaks
 Branching
 Bus
+Breaking
 used
 use
 unit
@@ -1464,6 +1518,7 @@ grid
 graph
 grained
 garden
+granularity
 logic
 like
 level
@@ -1507,6 +1562,7 @@ locks
 local
 languages
 leaves
+long
 various
 valid
 view
@@ -1519,6 +1575,8 @@ variable
 versatile
 version
 von
+vector
+vectors
 More
 MORE
 Measurement
@@ -1572,6 +1630,7 @@ Other
 Occurs
 Only
 Offers
+Operate
 Loop
 Law
 Let
@@ -1591,6 +1650,8 @@ Looping
 Logic
 Local
 Lazy
+Language
+Long
 Unrolling
 Using
 Unit
@@ -1610,6 +1671,8 @@ Victim
 Virtual
 Visual
 Vector
+Very
+VLIW
 You
 Key
 Quantitative
@@ -1634,6 +1697,8 @@ Networks
 Network
 NUMA
 Neumann
+Notes
+Name
 yet
 you
 quantitative
