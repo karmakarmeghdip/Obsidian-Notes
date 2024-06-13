@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 4 Computer Architecture/Unit 1/Non Linear Pipelining.md",
+                "file": "Sem 4 Computer Architecture/Unit 2.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 4 Computer Architecture/Unit 1/Non Linear Pipelining.md",
+                "file": "Sem 4 Computer Architecture/Unit 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 4 Computer Architecture/Unit 1/Non Linear Pipelining.md",
+                "file": "Sem 4 Computer Architecture/Unit 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 4 Computer Architecture/Unit 1/Non Linear Pipelining.md"
+                "file": "Sem 4 Computer Architecture/Unit 2.md"
               }
             }
           }
